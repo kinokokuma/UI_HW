@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 4a5ce4cc770569a44a8c59880977405c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Anuphan
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b2cdccb24f23e6d4b9071c3dcc7b06ba, type: 3}
+  - {fileID: 12800000, guid: 214f096bf84002946bb58547dfdafc44, type: 3}
+  - {fileID: 12800000, guid: b6b005205b9475f4fb353f9d35bbd685, type: 3}
+  - {fileID: 12800000, guid: 1aef80d546d2fb543a4ce15df77a67d5, type: 3}
+  - {fileID: 12800000, guid: 997ecec4e09b86243a64affb7fe45d3d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
